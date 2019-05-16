@@ -1,2 +1,2 @@
-# citySelect
+# city-select
 一个中国城市按拼音排序的组件，可搜索，可按拼音首页跳转
